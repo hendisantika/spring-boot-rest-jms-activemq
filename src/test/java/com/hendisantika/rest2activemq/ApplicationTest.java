@@ -1,4 +1,4 @@
-package com.daggerok.rest2activemq;
+package com.hendisantika.rest2activemq;
 
 import org.junit.*;
 import org.junit.runner.RunWith;
@@ -8,7 +8,6 @@ import org.springframework.jms.core.*;
 import org.springframework.test.context.ContextConfiguration;
 import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
 
-import javax.jms.*;
 import java.util.concurrent.TimeUnit;
 
 import static org.junit.Assert.assertNotNull;
