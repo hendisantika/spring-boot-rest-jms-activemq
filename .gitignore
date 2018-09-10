@@ -12,3 +12,4 @@ build/
 gradle/
 target/
 out/
+gradlew.bat
